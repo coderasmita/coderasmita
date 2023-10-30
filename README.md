@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmita Koirala</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmita50" alt="asmita50" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderasmita" alt="coderasmita" /></a> </p>
 
 - 🔭 I’m currently working on Mobile Application
 
@@ -22,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmita50&show_icons=true&locale=en&layout=compact" alt="asmita50" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderasmita&show_icons=true&locale=en&layout=compact" alt="coderasmita" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmita50&show_icons=true&locale=en" alt="asmita50" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderasmita&show_icons=true&locale=en" alt="coderasmita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmita50&" alt="asmita50" /></p>
+
